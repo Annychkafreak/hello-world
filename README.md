@@ -1,5 +1,5 @@
 # hello-world
-Don't panic, Annychka here
+Don't panic, Annychka here.
 Hello to everyone. Let me introduce myself.
 I'm working in library, live in Lviv, Ukraine and can invite anyone to my city. 
 It's a big pleasure to meet new people. 
